@@ -25,7 +25,10 @@ If you want to use this template in your favorite LaTeX editor you can :
 
 
 ## How it looks
-<img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_1.png" width="210" height="297" />
+| \documentclass[thirdYear]{templateEnsai}      | \documentclass[thirdYear]{templateEnsai}     | \documentclass[thirdYear]{templateEnsai} |
+|--------------|-----------|------------|
+| <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_1.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_1.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_1.png" width="210" height="297" />        |
+
 
 
 
