@@ -9,10 +9,10 @@ Ce template LaTeX vise à aider les étduiants de l'ENSAI à écrire leur rappor
 [![Github Downloads](https://img.shields.io/github/downloads/Lui5ito/EnsaiTemplates/total.svg)]()
 [![License](https://img.shields.io/github/license/Lui5ito/EnsaiTemplates.svg)]()
 
-## 🔍 A quoi ressemble le template
+## 🔍 À quoi ça ressemble
 | Options de classe | [firstYear, confidential]  | [secondYear, en]| [thirdYear, progressReport] |
 |--------------|--------------|-----------|------------|
-| How it looks | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_firstYear_confidential.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_secondYear_en.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_thirdYear_progressReport.png" width="210" height="297" />        |
+| Apparence | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_firstYear_confidential.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_secondYear_en.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_thirdYear_progressReport.png" width="210" height="297" />        |
 
 ## 🔧 Installation
 
