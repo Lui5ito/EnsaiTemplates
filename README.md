@@ -5,9 +5,9 @@ This is a LaTeX template for ENSAI's student to help them write their internship
 [![french](https://img.shields.io/badge/Readme_in-Fran%C3%A7ais-blue)]()
 
 [![Overleaf](https://img.shields.io/badge/Overleaf-black?logo=overleaf)]()
-[![Version](https://img.shields.io/github/v/release/Lui5ito/templateENSAI.svg)]()
-[![Github Downloads](https://img.shields.io/github/downloads/Lui5ito/templateENSAI/total.svg)]()
-[![License](https://img.shields.io/github/license/Lui5ito/templateENSAI.svg)]()
+[![Version](https://img.shields.io/github/v/release/Lui5ito/EnsaiTemplates.svg)]()
+[![Github Downloads](https://img.shields.io/github/downloads/Lui5ito/EnsaiTemplates/total.svg)]()
+[![License](https://img.shields.io/github/license/Lui5ito/EnsaiTemplates.svg)]()
 
 ## How to install
 
