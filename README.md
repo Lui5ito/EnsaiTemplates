@@ -30,11 +30,11 @@ If you want to use this template in your favorite LaTeX editor :
 
 ## 📝 How to use the template
 
-### Class option
+### Class options
 
 The LaTeX class "templateEnsai" comes with a few options that you can use.
 
-- **firstYear**, secondYear, thirdYear : this option is *mandatory*, use one of the three.
+- **firstYear**, **secondYear**, **thirdYear** : this option is *mandatory*, use one of the three.
 - **confidential** : use this option if your intership has confidential data in it.
 - **en** : use this option if you want to write your report in english.
 - **progressReport** : use this option if your are writing the half-way report to send the school.
