@@ -24,7 +24,7 @@ If you want to use this template in Overleaf :
     - Select the .zip file of this repository
     - Done
 
-If you want to use this template in your favorite LaTeX editor you can :
+If you want to use this template in your favorite LaTeX editor :
 - You can download the repository as a .zip file and put it in your editor
 - Or you can clone the repository and connect your repo to your editor
 
@@ -34,10 +34,10 @@ If you want to use this template in your favorite LaTeX editor you can :
 
 The LaTeX class "templateEnsai" comes with a few options that you can use.
 
-- firstYear, secondYear, thirdYear : this option is **mandatory**, use one of the three.
-- confidential : use this option if your intership has confidential data in it.
-- en : use this option if you want to write your report in english.
-- progressReport : use this option if your are writing the half-way report to send the school.
+- **firstYear**, secondYear, thirdYear : this option is *mandatory*, use one of the three.
+- **confidential** : use this option if your intership has confidential data in it.
+- **en** : use this option if you want to write your report in english.
+- **progressReport** : use this option if your are writing the half-way report to send the school.
 
 ### Rendering name and title
 
