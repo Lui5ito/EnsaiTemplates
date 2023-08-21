@@ -9,7 +9,7 @@ This is a LaTeX template for ENSAI's student to help them write their internship
 [![Github Downloads](https://img.shields.io/github/downloads/Lui5ito/EnsaiTemplates/total.svg)]()
 [![License](https://img.shields.io/github/license/Lui5ito/EnsaiTemplates.svg)]()
 
-## :eyeglasses: Examples of how it looks
+## 🔍 Examples of how it looks
 | Class options | [firstYear, confidential]  | [secondYear, en]| [thirdYear, progressReport] |
 |--------------|--------------|-----------|------------|
 | How it looks | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_firstYear_confidential.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_secondYear_en.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_thirdYear_progressReport.png" width="210" height="297" />        |
