@@ -25,8 +25,8 @@ If you want to use this template in your favorite LaTeX editor you can :
 
 
 ## How it looks
-
-![alt text](https://github.com/Lui5ito/templateENSAI/Examples/example_1.png)
+<img src="example_1.png" width="200" height="200" />
+![alt text](https://github.com/Lui5ito/templateENSAI/blob/Examples/example_1.png)
 
 
 
