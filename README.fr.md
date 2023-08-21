@@ -2,7 +2,7 @@
 
 Ce template LaTeX vise à aider les étduiants de l'ENSAI à écrire leur rapport de stage sur LaTeX. Il peut aussi être utilisé comme base pour un projet fait à l'école comme le projet statistique.
 
-[![french](https://img.shields.io/badge/Readme_in-Fran%C3%A7ais-blue)]()
+[![english](https://img.shields.io/badge/Readme_in-English-red)](https://github.com/Lui5ito/EnsaiTemplates/blob/main/README.md)
 
 [![Overleaf](https://img.shields.io/badge/Overleaf-black?logo=overleaf)]()
 [![Version](https://img.shields.io/github/v/release/Lui5ito/EnsaiTemplates.svg)]()

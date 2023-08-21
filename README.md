@@ -2,7 +2,7 @@
 
 This is a LaTeX template for ENSAI's student to help them write their internship reports in LaTeX. Can also be used as a baseline for school project.
 
-[![french](https://img.shields.io/badge/Readme_in-Fran%C3%A7ais-blue)]()
+[![french](https://img.shields.io/badge/Readme_in-Fran%C3%A7ais-blue)](https://github.com/Lui5ito/EnsaiTemplates/blob/main/README.fr.md)
 
 [![Overleaf](https://img.shields.io/badge/Overleaf-black?logo=overleaf)]()
 [![Version](https://img.shields.io/github/v/release/Lui5ito/EnsaiTemplates.svg)]()
