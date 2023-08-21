@@ -1,0 +1,103 @@
+%============================================================================
+%   - Internship report template for ENSAI's students
+%
+%   - This template can be downloaded from:
+%
+%   - Author: Louis Allain
+%
+%   - Template license: MIT License
+%============================================================================
+
+\documentclass[thirdYear]{templateEnsai}
+
+
+%============================================================================
+%   Dcoument class variables
+%============================================================================
+
+%% Front Page Information
+\student{My}{Name}
+\theme{Most amazing internship}
+\organization{Most amazing company}
+\address{5 Avenue Anatole France, 75007 Paris, France}
+\graduateYear{2023}
+\supervisor{My}{Supervisor}
+\teacher{My}{Teacher}
+
+%% Add internship image next to the university one (if you don't want to add it, please delete the line)
+\addImage{Images/Ensai_logo_small.png}
+
+
+\begin{document}
+
+%============================================================================
+%   Front page
+%============================================================================
+
+%% Makes the front page based on the variables set above
+\makefrontpage
+
+
+%============================================================================
+%   Front Matter
+%============================================================================
+
+%% Makes the aknowledgements (delete the line if you don't want aknowledgements)
+\input{FrontMatter/acknowledgements}
+
+%% Makes the abstract (delete the line if you don't want an abstract)
+\input{FrontMatter/abstract}
+
+%% Makes the resume (if the report is not in english) (delete the line if you don't want to include a resume)
+\input{FrontMatter/resume}
+
+
+%============================================================================
+%   Body
+%============================================================================
+
+%% Makes the table of contents
+\tableofcontents
+
+%% Makes the table of figures
+\listoffigures
+
+%% Makes the tables of tables
+\listoftables
+
+%% Makes the introduction
+\input{Body/introduction}
+% Makes the introduction appear in the table of contents (be careful to sync the name in table of contents and the chapters name)
+\addcontentsline{toc}{chapter}{Introduction}
+
+%% Makes the first chapter
+\input{Body/monpremierchapitre}
+
+%% Makes another chapter
+\input{Body/undeuxiemechapitre}
+
+%% Makes the conclusion
+\input{Body/conclusion}
+% Makes the conclusion appear in the table of contents (be careful to sync the name in table of contents and the chapters name)
+\addcontentsline{toc}{chapter}{Conclusion}
+
+
+%============================================================================
+%   Back Matter
+%============================================================================
+
+%% Prints the bibliography
+\printbibliography
+% Makes the bibliography appears in the table of contents
+\addcontentsline{toc}{chapter}{Bibliographie}
+
+%% Starts the appendices
+\appendix
+
+%% Makes the first appendix
+\input{BackMatter/annexe1}
+
+%% Makes the second appendix
+\input{BackMatter/annexe2}
+
+\end{document}
