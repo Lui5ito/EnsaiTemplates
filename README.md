@@ -9,12 +9,12 @@ This is a LaTeX template for ENSAI's student to help them write their internship
 [![Github Downloads](https://img.shields.io/github/downloads/Lui5ito/EnsaiTemplates/total.svg)]()
 [![License](https://img.shields.io/github/license/Lui5ito/EnsaiTemplates.svg)]()
 
-## Examples of how it looks
+## :eyeglasses: Examples of how it looks
 | Class options | [firstYear, confidential]  | [secondYear, en]| [thirdYear, progressReport] |
 |--------------|--------------|-----------|------------|
 | How it looks | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_firstYear_confidential.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_secondYear_en.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_thirdYear_progressReport.png" width="210" height="297" />        |
 
-## How to install
+## :wrench: How to install
 
 If you want to use this template in Overleaf : 
 - You can use the Overleaf template [here]()
@@ -28,7 +28,7 @@ If you want to use this template in your favorite LaTeX editor you can :
 - You can download the repository as a .zip file and put it in your editor
 - Or you can clone the repository and connect your repo to your editor
 
-## How to use the template
+## :memo: How to use the template
 
 ### Class option
 
@@ -79,25 +79,9 @@ Making the bibliography is very simple. Import your .bib file under the name of 
 
 To make a new appendix, create a file in the BackMatter folder, yournewappendix.tex. Make a chapter and write your appendix in this file, you can have section and subsection in your appendix. To make it appear in your report, add the line \input{BackMatter/yournewappendix} where you want it to appear.
 
-## Errors and more customizaton
 
-If you want to add a package you can either add it in the main.tex file, or in the templateEnsai.cls file in the Dependencies section with \RequirePackage{packagename}.
-
-If you encounter an error while using this template you can fill an issue in the [GitHub repository](). I will try my best to help you.
-
-If you want to drasticly change the front page or the style of your report, feel free to fork the repository and make your changes.
-
-If you want more functionalities in this template, feel free to suggest them by raising an issue.
-
-
-## Additionnal feature I am working on
+## 👀 Additionnal feature I am working on
 
 - Adding a *school* class option for ENSAE
 - Adding a *thesis* class option for thesis template
 - Adding *StatisticProject* class option for school project template
-
-
-## License
-
-
-
