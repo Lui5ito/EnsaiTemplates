@@ -14,7 +14,7 @@ This is a LaTeX template for ENSAI's student to help them write their internship
 |--------------|--------------|-----------|------------|
 | How it looks | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_firstYear_confidential.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_secondYear_en.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_thirdYear_progressReport.png" width="210" height="297" />        |
 
-## :wrench: How to install
+## 🔧 How to install
 
 If you want to use this template in Overleaf : 
 - You can use the Overleaf template [here]()
@@ -28,7 +28,7 @@ If you want to use this template in your favorite LaTeX editor you can :
 - You can download the repository as a .zip file and put it in your editor
 - Or you can clone the repository and connect your repo to your editor
 
-## :memo: How to use the template
+## 📝 How to use the template
 
 ### Class option
 
