@@ -26,7 +26,7 @@ If you want to use this template in your favorite LaTeX editor you can :
 
 ## How it looks
 
-![alt text](https://github.com/Lui5ito/templateENSAI/Examples/example_1.pdf)
+![alt text](https://github.com/Lui5ito/templateENSAI/Examples/example_1.png)
 
 
 
