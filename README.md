@@ -10,9 +10,9 @@ This is a LaTeX template for ENSAI's student to help them write their internship
 [![License](https://img.shields.io/github/license/Lui5ito/EnsaiTemplates.svg)]()
 
 ## Examples of how it looks
-| Class options | [firstYear, confidential]  | [secondYear, en]| [thirdYear, progressReport] | [thirdYear, progressReport, en, confidential] |
-|--------------|--------------|-----------|------------|------------|
-| How it looks | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_1.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_2.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_3.png" width="210" height="297" />        | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_3.png" width="210" height="297" />        |
+| Class options | [firstYear, confidential]  | [secondYear, en]| [thirdYear, progressReport] |
+|--------------|--------------|-----------|------------|
+| How it looks | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_1.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_2.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_3.png" width="210" height="297" />        |
 
 ## How to install
 
