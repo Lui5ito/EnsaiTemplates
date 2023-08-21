@@ -25,7 +25,7 @@ If you want to use this template in your favorite LaTeX editor you can :
 
 
 ## How it looks
-| Class options | [thirdYear]  | [secondYear, en, confidential, progressReport]| [firstYear, confidential] |
+| Class options | [thirdYear]  | [secondYear, en, progressReport]| [firstYear, en, confidential] |
 |--------------|--------------|-----------|------------|
 | How it looks | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_1.png" width="210" height="297" /> | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_2.png" width="210" height="297" />      | <img src="https://github.com/Lui5ito/EnsaiTemplates/blob/main/Examples/example_3.png" width="210" height="297" />        |
 
