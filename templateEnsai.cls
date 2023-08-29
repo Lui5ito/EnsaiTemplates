@@ -1,11 +1,11 @@
 %============================================================================
 %   - Internship report template for ENSAI's students
 %
-%   - This template can be downloaded from:
+%   - This template can be downloaded from: https://github.com/Lui5ito/EnsaiTemplates
 %
 %   - Author: Louis Allain
 %
-%   - Template license: MIT License
+%   - License: MIT License
 %============================================================================
 
 
