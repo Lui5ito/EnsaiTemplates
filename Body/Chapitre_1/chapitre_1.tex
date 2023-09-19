@@ -1,0 +1,69 @@
+%============================================================================
+%   - Internship report template for ENSAI's students
+%
+%   - This template can be downloaded from: https://github.com/Lui5ito/EnsaiTemplates
+%
+%   - Author: Louis Allain
+%
+%   - License: MIT License
+%============================================================================
+
+%============================================================================
+%   Write a chapter in this file
+%============================================================================
+
+
+\chapter{My first chapter}
+In this chapter you will see examples of how to make a table and show a figure.
+
+\section{A first section}
+Here is the first table of the report, \autoref{tab:first_table}. 
+\begin{table}[h]
+    \centering
+    \begin{tabular}{ccc}
+    First column & Second column & Third column \\
+    1            & 10            & 100          \\
+    2            & 20            & 200          \\
+    3            & 30            & 300          \\
+    4            & 40            & 400          \\
+    5            & 50            & 500         
+    \end{tabular}
+    \caption{First table example, with random numbers.}
+    \label{tab:first_table}
+\end{table}
+You can also make multiple subtables within one table, which are \autoref{subtab:first_subtable} and \autoref{subtab:second_subtable}.
+\begin{table}[h]
+    \centering
+    \begin{subtable}{0.49\linewidth}
+        \centering
+        \begin{tabular}{|c|c|c|}
+        \hline
+        First column & Second column & Third column \\ \hline
+        1            & 10            & 100          \\ \hline
+        2            & 20            & 200          \\ \hline
+        3            & 30            & 300          \\ \hline
+        4            & 40            & 400          \\ \hline
+        5            & 50            & 500          \\ \hline
+        \end{tabular}
+        \caption{First subtable, with borders.}
+        \label{subtab:first_subtable}
+    \end{subtable}
+    \hfill
+    \begin{subtable}{0.49\linewidth}
+      \centering
+      \begin{tabular}{ccc}
+      First column & Second column & Third column \\
+      1            & 10            & 100          \\
+      2            & 20            & 200          \\
+      3            & 30            & 300          \\
+      4            & 40            & 400          \\
+      5            & 50            & 500         
+      \end{tabular}
+      \caption{Second subtable, without borders.}
+      \label{subtab:second_subtable}
+    \end{subtable}
+    \caption{An example of a table with two subtables.}
+    \label{tab:second_table}
+  \end{table}
+\section{Another section with subsection}
+

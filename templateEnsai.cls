@@ -50,8 +50,8 @@
      colorlinks=true,%
      linkcolor=.,%
      filecolor=red,%
-     citecolor = cyan,%
-     urlcolor=teal,%
+     citecolor = blue,%
+     urlcolor=blue,%
      } % Standard colors for links
 \RequirePackage{xcolor} % Enables coloring words
 \RequirePackage[skins]{tcolorbox} % Requireds for the blue box in the front page
@@ -61,6 +61,9 @@
 \RequirePackage{amsthm} % Required for writing proofs
 \RequirePackage{tikz} % Required for backgroundimage
 \RequirePackage{biblatex} % Required for making bibliography
+
+\RequirePackage{caption} % Required for subfigures and subtables
+\RequirePackage{subcaption} % Required for subfigures and subtables
 
 
 %============================================================================
@@ -216,9 +219,9 @@
 \renewcommand{\listfigurename}{\ifdef{\@en}{List of Figures}{Liste des figures}}
 
 % Rename table of tables
-\renewcommand{\listtablename}{\ifdef{\@en}{List of Tables}{Liste des tableaux}}
+\renewcommand{\listtablename}{\ifdef{\@en}{List of Tables}{Liste des tables}}
 
-% Rename appednix
+% Rename appendix
 \ifdef{\@en}{}{\renewcommand{\appendixname}{Annexe}}
 
 % Rename bibliography
